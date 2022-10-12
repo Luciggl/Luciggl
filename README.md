@@ -6,7 +6,6 @@
 - 👩🏽‍💻 Front end dev
 - 📚 Estudante de Ciências da Computação - UFPB
 - 📧 Email para contato: lucielionascimento19@gmail.com
-- 📫 Pronomes: ele/dele
 - ☕ Viciado em café
 <br>
 

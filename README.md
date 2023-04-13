@@ -3,7 +3,7 @@
 </h1> <br>
 
 
-- 👩🏽‍💻 Front end dev
+- 👩🏽‍💻 Full Stack Developer
 - 📚 Estudante de Ciências da Computação - UFPB
 - 📧 Email para contato: lucielionascimento19@gmail.com
 - ☕ Viciado em café

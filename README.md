@@ -38,6 +38,7 @@
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=fff&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)&nbsp;
 
+### Contacts:
 <div> 
  <a href="https://instagram.com/lucielio19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23b6008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/Luciggl" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  

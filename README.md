@@ -32,13 +32,13 @@
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=fff&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 
-### Tools, Environments and Development:
+### ### Tools, Environments and Development:
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=VSCode&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=fff&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)&nbsp;
 
-### Contacts:
+### ### Contacts:
 <div> 
  <a href="https://instagram.com/lucielio19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23b6008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/Luciggl" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  

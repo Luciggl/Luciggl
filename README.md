@@ -20,7 +20,7 @@
 ##
 
 ### Studying in this moment:
-[![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=1572B6&labelColor=0D1117)](https://www.java.com/)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&logoColor=FF0000&labelColor=0D1117)&nbsp;
 
 ### Main skills:

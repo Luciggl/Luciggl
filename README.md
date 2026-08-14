@@ -8,6 +8,11 @@
 - ☕ Viciado em café
 <br>
 
+##
+## 🐍 Minhas contribuições
+
+![Snake animation](https://raw.githubusercontent.com/Luciggl/Luciggl/output/github-contribution-grid-snake.svg)
+##
 
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;

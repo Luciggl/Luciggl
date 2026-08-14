@@ -10,9 +10,9 @@
 
 ##
 ## 🐍 Minhas contribuições
-<div align=center>
- <img src="https://raw.githubusercontent.com/Luciggl/Luciggl/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Luciggl/Luciggl/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 ##
 
 ### Studying in this moment:
